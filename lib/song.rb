@@ -20,4 +20,5 @@ class Song
     song = self.new 
     song.name = title 
     title 
+  end
 end
